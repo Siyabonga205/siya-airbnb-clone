@@ -1,0 +1,48 @@
+{
+    "users": [
+        { "id": 1,
+         "name": "Siyabonga Mbatha",
+          "email": "smbatha457@gmail.com",
+        "phone": "065-694-4106"
+        },
+        { "id": 2,
+        "name": "Seipati Mbatha",
+         "email": "smbatha789@gmail.com",
+       "phone": "069-864-7406"
+       }
+    ],
+    "bookings": [
+        { 
+            "ListingId": 1,
+         "startDate": "2023-08-19",
+          "endDate": "2023-08-23",
+          "userId": "1"
+        }
+    ],
+    "listing": [
+    { 
+        "id": 1,
+        "bath_num":5,
+        "bed_num":9,
+        "zip":4567,
+        "address":"Phiritona",
+        "city":"Heilbron",
+        "street":"Mbatha str",
+        "price":900,
+        "email":"test@test.com",
+        "userId":5
+    },
+    { 
+        "id": 2,
+        "bath_num":5,
+        "bed_num":9,
+        "zip":4567,
+        "address":"Phiritona",
+        "city":"Heilbron",
+        "street":"Mbatha str",
+        "price":900,
+        "email":"test@test.com",
+        "userId":6
+    }
+]
+}
