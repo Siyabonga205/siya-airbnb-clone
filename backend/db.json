@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Mbali Khaile",
+      "email": "Khaile@gmail.com",
+      "phone": "067-987-5487"
+    },
+    {
+        "id": 2,
+        "name": "Atli Khaile",
+        "email": "Khaile876@gmail.com",
+        "phone": "067-987-5487"
+    }
+  ],
+  "bookings": [
+  {
+  "listingId": 1,
+  "startDate": "2022-02-20",
+  "endDate": "2022-02-21",
+  "userId": "1"
+}
+  ],
+  
+    "listings": [
+        {
+      "id": 20,
+      "bath_num": 3,
+      "bed_num": 4,
+      "zip": 23456,
+      "address": "Shomolu Street",
+      "city": "Ikeja",
+      "street": "Agege",
+      "price": 2000,
+      "sq_ft": 4.2,
+      "email": "test@test.com",
+      "userId": 2
+        
+    },
+    {
+      "id": 20,
+      "bath_num": 3,
+      "bed_num": 4,
+      "zip": 23456,
+      "address": "Shomolu Street",
+      "city": "Ikeja",
+      "street": "Agege",
+      "price": 2000,
+      "sq_ft": 4.2,
+      "email": "test@test.com",
+      "userId": 2
+        
+    }
+
+]
+}
+
+
